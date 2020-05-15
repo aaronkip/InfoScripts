@@ -11,13 +11,13 @@ You can install PXEnum directly by cloning the repository with Git, or you can f
 __Cloning with Git__
 
 ```
-$ git clone https://github.com/shawnduong/PXEnum
+$ git clone https://github.com/aaronkip/InfoScripts/tree/master/PostEnum
 ```
 
 __Downloading with wget__
 
 ```
-$ wget https://raw.githubusercontent.com/shawnduong/PXEnum/master/PXEnum.sh
+$ wget https://raw.githubusercontent.com//aaronkip/InfoScripts/tree/master/PostEnum/PXEnum.sh
 ```
 
 ## Usage
