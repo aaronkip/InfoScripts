@@ -12,13 +12,16 @@ __Cloning with Git__
 
 ```
 $ git clone https://github.com/aaronkip/InfoScripts.git
+$ cd PostEnum
 ```
 
 __Downloading with wget__
 
 ```
 $ wget https://raw.githubusercontent.com/aaronkip/InfoScripts.git
+$ cd PostEnum
 ```
+
 
 ## Usage
 
