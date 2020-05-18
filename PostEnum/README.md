@@ -11,7 +11,7 @@ You can install PXEnum directly by cloning the repository with Git, or you can f
 __Cloning with Git__
 
 ```
-$ git clone https://github.com/aaronkip/InfoScripts/tree/master/PostEnum
+$ git clone https://github.com/aaronkip/InfoScripts.git
 ```
 
 __Downloading with wget__
