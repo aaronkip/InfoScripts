@@ -17,7 +17,7 @@ $ git clone https://github.com/aaronkip/InfoScripts.git
 __Downloading with wget__
 
 ```
-$ wget https://raw.githubusercontent.com//aaronkip/InfoScripts/tree/master/PostEnum/PXEnum.sh
+$ wget https://raw.githubusercontent.com/aaronkip/InfoScripts.git
 ```
 
 ## Usage
