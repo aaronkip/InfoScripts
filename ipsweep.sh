@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Most basic ip sweeper!
+#Feel free to edit to your liking
+
 if [ "$1" == ""  ]
 then
 echo "Mising Ip Adress"
