@@ -21,9 +21,6 @@ printf " \e[1;77m ___/ / /___/ /___/ __/_____/\e[0m\e[91m   |___/ /__/ /  \e[0m\
 printf " \e[1;77m/____/_____/_____/_/       \e[0m\e[91m/_/|_/____/____/\e[0m\e[1;77mv1.2   \e[0m\n"
                                              
 
-printf "\e[1;77m by github.com/thelinuxchoice/self-xss\e[0m \n"
-
-printf " \e[34mtwitter:\e[0m\e[77m @linux_choice\e[0m\n"
 
 printf "\n\e[1;91m Disclaimer: this tool is designed for security\n"
 printf " testing in an authorized simulated cyberattack\n"
