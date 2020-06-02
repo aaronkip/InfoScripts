@@ -1,7 +1,5 @@
 #!/bin/bash
 # Self-XSS v1.2
-# coded by: github.com/thelinuxchoice/self-xss
-# Twitter: @linux_choice
 # Disclaimer: Attacking targets without prior mutual consent is illegal.
 trap 'printf "\n";stop' 2
 
