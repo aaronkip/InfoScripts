@@ -17,7 +17,7 @@ print("-" * 50)
 print("Scanning target " + target)
 print("Start Time: "+ str(datetime.now()))
 print("-" * 50)
-
+#End Banner
 try:
 	for port in range(50,85):
 		s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
