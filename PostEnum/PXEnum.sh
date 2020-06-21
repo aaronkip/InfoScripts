@@ -5,7 +5,7 @@
 
 echo "--[ PXEnum ]--"
 echo "* Version : v2.0 (2020.3.27)"
-echo "* Source  : https://github.com/shawnduong/PXEnum"
+echo "* Source  : https://github.com/aaronkip/PXEnum"
 echo "----------------------------------------------"
 echo
 
